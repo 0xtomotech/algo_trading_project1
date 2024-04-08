@@ -1,0 +1,5 @@
+.env
+/myvenv/
+/archive/
+/__pycache__/
+secretofthedev.py
